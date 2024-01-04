@@ -2,7 +2,7 @@ Hi,
 
 Delighted to have you here.
 
-I'll keep it brief. I am a programmer/software developer who likes machines. I know a thing or two about web and AI development. I am generally a liberal individual and somewhat of an accelerationist(e/acc). I would love to make AI products that are fun/useful, as well as research it in order to understand/utilise it more potently.
+I'll keep it brief. I am a programmer/software developer who likes machines, and I know a thing or two about web and AI development. I am generally a liberal individual and somewhat of an accelerationist(e/acc). I would love to make AI products that are fun/useful, as well as research it in order to understand/utilise it more potently.
 
 I am currently a prospective student seeking to continue my education aboard.
 
