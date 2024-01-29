@@ -12,7 +12,7 @@ I have organized most of my public github repos in this manner:
 
 Some of the Technologies I am familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,javascript,ts,react,nextjs,svelte,nodejs,express,bootstrap,tailwind,sass,python,pytorch,tensorflow,linux,bash&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,sass,javascript,ts,react,nextjs,svelte,nodejs,express,python,pytorch,tensorflow,linux,bash&perline=13)](https://skillicons.dev)
 
 
 
