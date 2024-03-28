@@ -2,13 +2,17 @@ Hi,
 
 Delighted to have you here.
 
-I'll keep it brief. I am a programmer/software developer who likes machines, and knows a thing or two about web and AI development. I'm a liberal individual and somewhat of an e/acc. I would love to make AI products that are fun/useful, as well as research it in order to understand/utilise it more potently.
+I'll keep it brief. I am a software engineer who likes machines, and knows a thing or two about web and AI development. I'm a liberal individual and somewhat of an e/acc. I would love to make AI products that are fun/useful, as well as research it in order to understand/utilise it more potently.
 
-I am currently a prospective student seeking to continue my education aboard.
+> I am currently a prospective student seeking to continue my education aboard.
 
 I have organized most of my public github repos in this manner:
 
 < name of the framework > - < The project name >
+
+I have adopted the method that Linux GitHub Repo uses for naming the commit messages, it pretty much sums down to:
+
+"If applied, this commit would < commit-message > "
 
 Some of the Technologies I am familiar with:
 
