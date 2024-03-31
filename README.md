@@ -11,10 +11,6 @@ I have organized most of my public github repos in this manner:
 
 < name of the framework > - < The project name >
 
-I have adopted the method that Linux GitHub Repo uses for naming the commit messages, it pretty much sums down to:
-
-"If applied, this commit would < commit-message > "
-
 Some of the Technologies I am familiar with:
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,sass,javascript,ts,react,nextjs,svelte,nodejs,express,python,pytorch,tensorflow,linux,bash&perline=13)](https://skillicons.dev)
