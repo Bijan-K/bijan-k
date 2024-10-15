@@ -3,13 +3,13 @@ Hi,
 Delighted to have you here.
 
 I'll keep it brief. I’m a software engineer with a passion for machines and experience in web and AI development.
-I'm a forward-thinking individual and I would love to make AI products that are fun/useful, as well as research it in order to understand/utilise it more effectively.
+I'm a forward-thinking individual passionate about creating AI products that are both fun and useful. I also aim to research AI to further deepen my understanding and enhance its practical applications.
 
 > I am currently a prospective student seeking to continue my education aboard.
 
 I have organized most of my public repositories in this manner:
 
-< Name of Framework > - < Project Name >
+< Name of Framework > - < Name of Project >
 
 Some of the Technologies I am familiar with:
 
