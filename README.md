@@ -2,18 +2,18 @@ Hi,
 
 Delighted to have you here.
 
-I'll keep it brief. I am a software engineer who likes machines, and knows a thing or two about web and AI development. 
-I'm a liberal individual and I would love to make AI products that are fun/useful, as well as research it in order to understand/utilise it more potently.
+I'll keep it brief. I’m a software engineer with a passion for machines and experience in web and AI development.
+I'm a forward-thinking individual and I would love to make AI products that are fun/useful, as well as research it in order to understand/utilise it more effectively.
 
 > I am currently a prospective student seeking to continue my education aboard.
 
-I have organized most of my public github repos in this manner:
+I have organized most of my public repositories in this manner:
 
-< name of the framework > - < The project name >
+< Name of Framework > - < Project Name >
 
 Some of the Technologies I am familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,sass,javascript,ts,react,nextjs,svelte,nodejs,express,python,pytorch,linux,bash,sqlite,nginx&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,sass,javascript,ts,react,nextjs,svelte,nodejs,express,python,pytorch,fastapi,flask,linux,bash,sqlite,nginx&perline=13)](https://skillicons.dev)
 
 
 
