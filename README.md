@@ -32,4 +32,4 @@ Some of the Technologies I am familiar with:
 </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:A0A3A2,100:39FF14&height=100&section=footer&text=Github%20Stats&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:A0A3A2&height=100&section=footer&text=Github%20Stats&fontColor=fff"/>
