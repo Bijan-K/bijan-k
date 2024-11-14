@@ -18,7 +18,7 @@ Some of the Technologies I am familiar with:
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:f20000,100:5500f2&height=10"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:303437,100:39FF14&height=10"/>
 
 <br/>
 <br/>
@@ -32,4 +32,4 @@ Some of the Technologies I am familiar with:
 </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5500f2,100:f20000&height=100&section=footer&text=Github%20Stats&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:A0A3A2,100:39FF14&height=100&section=footer&text=Github%20Stats&fontColor=fff"/>
