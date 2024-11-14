@@ -1,8 +1,6 @@
-Hi,
-
 Delighted to have you here.
 
-I'll keep it brief. I’m a software engineer with a passion for machines and experience in web and AI development.
+I'll keep it brief. I’m a software engineer with a obsession for machines and experience in web and AI development.
 I'm a forward-thinking individual passionate about creating AI products that are both fun and useful. I also aim to research AI to further deepen my understanding and enhance its practical applications.
 
 > I am currently a prospective student seeking to continue my education aboard.
@@ -32,4 +30,4 @@ Some of the Technologies I am familiar with:
 </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:A0A3A2&height=100&section=footer&text=Github%20Stats&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:303437,100:39FF14&height=100&section=footer&text=Github%20Stats&fontColor=fff"/>
