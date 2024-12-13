@@ -22,9 +22,10 @@ Some of the Technologies I am familiar with:
 <br/>
 
 <div style="display: flex; gap: 5px;"> 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=bijan-k&theme=tokyonight&hide_border=true">
-   <img decoding="async" loading="lazy" src='https://github-readme-streak-stats.herokuapp.com/?user=bijan-k&theme=tokyonight&hide_border=true'>
-</a>
+
+
+<img decoding="async" loading="lazy" src='https://github-readme-streak-stats.herokuapp.com/?user=bijan-k&theme=tokyonight&hide_border=true'>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bijan-k&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bijan-k&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact'>
 </a>
