@@ -5,13 +5,9 @@ I'm a forward-thinking individual passionate about creating AI products that are
 
 > I am currently a prospective student seeking to continue my education aboard.
 
-I have organized most of my public repositories in this manner:
-
-< Name of Framework > - < Name of Project >
-
 Some of the Technologies I am familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,sass,javascript,ts,react,nextjs,svelte,nodejs,express,python,pytorch,fastapi,flask,linux,bash,sqlite,nginx&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,sass,javascript,react,nextjs,svelte,nodejs,express,flutter,python,pytorch,fastapi,ubuntu,bash,sqlite,nginx,&perline=12)](https://skillicons.dev)
 
 
 
