@@ -1,15 +1,10 @@
 Delighted to have you here.
 
-I'll keep it brief. I’m a software engineer with a obsession for machines and experience in web and AI development.
-I'm a forward-thinking individual passionate about creating AI products that are both fun and useful. I also aim to research AI to further deepen my understanding and enhance its practical applications.
-
-> I am currently a prospective student seeking to continue my education aboard.
+I’m a software engineer with some experience in web and AI development.
 
 Some of the Technologies I am familiar with:
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,sass,javascript,react,nextjs,svelte,nodejs,express,flutter,python,pytorch,fastapi,ubuntu,bash,sqlite,nginx,&perline=12)](https://skillicons.dev)
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=0:303437,100:39FF14&height=10"/>
