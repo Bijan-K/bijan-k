@@ -12,10 +12,10 @@ Some of the Technologies I am familiar with:
 <br/>
 <br/>
 
-<div style="display: flex; gap: 5px;"> 
+<div style="display: flex; gap: 5px;">
 
 
-<img decoding="async" loading="lazy" src='https://github-readme-streak-stats.herokuapp.com/?user=bijan-k&theme=dark-smoky&hide_border=true'>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=bijan-k&theme=dark-smoky)](https://git.io/streak-stats)
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bijan-k&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=donut">
    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bijan-k&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=donut'>
